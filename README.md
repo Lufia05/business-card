@@ -1,1 +1,1 @@
-# business-card
+First thank you for viewing my code for the my business card that I have created. As you can probably see I am new to coding. The purpose of this digital business card is to display what I have learned so in coding, implementing html and css.
